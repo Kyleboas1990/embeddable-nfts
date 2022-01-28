@@ -22,7 +22,7 @@
   "homepage": "https://github.com/ProjectOpenSea/embeddable-nfts#readme",
   "dependencies": {
     "lit-element": "^3.0.2",
-    "lit-html": "^2.0.2",
+    "lit-html": "^2.1.1",
     "opensea-js": "^1.1.0",
     "web3": "^1.6.1"
   },
