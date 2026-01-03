@@ -23,8 +23,8 @@
   "dependencies": {
     "lit-element": "^3.0.2",
     "lit-html": "^2.0.2",
-    "opensea-js": "^1.1.0",
-    "web3": "^1.6.1"
+    "opensea-js": "^5.0.0",
+    "web3": "^4.0.1"
   },
   "husky": {
     "hooks": {
